@@ -107,7 +107,7 @@ Docker Certificate Errors
 - Expand detection coverage with vulnerability scanning integration
 
 ## Documentation
-[Full project documentation (PDF)]([https://drive.google.com/file/d/1NDG_Ku19nAYNSuMtqjfW7-1Iwsu__CE_/view?usp=sharing](https://github.com/umyo-ukz/soc-lab/blob/main/Nixon%20Rolle%20SOC.pdf))
+[Full project documentation (PDF)](https://github.com/umyo-ukz/soc-lab/blob/main/Nixon%20Rolle%20SOC.pdf)
 
 ### Author
 Nixon Rolle
